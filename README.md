@@ -7,9 +7,8 @@ Installation
 
 Check http://localhost:3000/ for app
 
-image.png
+<img width="1298" alt="image" src="https://user-images.githubusercontent.com/49047156/192457682-594bd9d9-b1d4-42e8-9abf-912ac1891a73.png">
 
 
-image.png
 
 
